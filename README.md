@@ -1,0 +1,2 @@
+# MyProjLib
+myprojectlib
